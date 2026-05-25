@@ -8,4 +8,5 @@ Ensuite, je me suis occupé du code lié au LoRa. On a dû modifier plusieurs pa
 
 Pendant les tests, on a vu que la communication ne marchait pas toujours bien, parfois les messages ne s’affichaient pas ou il y avait des erreurs. On a donc cherché d’où venaient les problèmes en comparant avec le protocole et en changeant petit à petit le code.
 
+
 On s’est aussi aidés de ChatGPT pour mieux comprendre certaines erreurs et trouver des idées de correction quand on était bloqués.
