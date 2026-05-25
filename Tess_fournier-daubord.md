@@ -6,4 +6,5 @@ Ensuite, j’ai programmé la détection pour que le système fonctionne correct
 
 J’ai aussi programmé l’alerte vers l’ordinateur : quand une personne s’approche à moins de 50 cm, le système envoie un message pour prévenir l’enseignant. Puis j'ai réalisé les branchements des fils pour relier les différents composants du système
 
+
 Enfin, j’ai aidé à corriger les erreurs quand le programme ne fonctionnait pas bien ou quand les informations ne s’envoyaient pas correctement.
