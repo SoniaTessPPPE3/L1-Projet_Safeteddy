@@ -10,5 +10,6 @@ J’ai fait plusieurs tests pour essayer de déclencher le son seulement quand u
 
 Pendant les essais, nous avons eu plusieurs problèmes : parfois le buzzer sonnait en continu ou le code ne marchait plus correctement. J’ai donc aidé à chercher les erreurs dans le programme et à modifier le code pour améliorer le fonctionnement du système.
 
+
 J’ai aussi participé aux branchements des différents composants pour vérifier que tout était bien connecté entre le capteur, le buzzer, la LED et la carte électronique.
 
